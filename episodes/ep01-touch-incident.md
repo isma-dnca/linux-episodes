@@ -26,7 +26,7 @@ Picture a building. Inside that building, there's a desk with papers on it. Ther
 
 And you?
 
-You're about to become the Blindfolded USER who walks into this building and touches something—maybe it's there, maybe it's not—and sets off a whole chain of events you never see, but that happens every single time.
+You're about to become the Blindfolded USER who walks into this building and touches something Lol,maybe it's there, maybe it's not! and sets off a whole chain of events you never see, but that happens every single time.
 
 Once you see it this way, you’ll never forget how `touch` works.
 
