@@ -1,4 +1,5 @@
 # Linux Episodes
+Hello USER,
 
 This repository contains a series of Linux command explanations as cinematic, story-like episodes.
 
